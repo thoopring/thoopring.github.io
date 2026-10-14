@@ -1,0 +1,2 @@
+Sitemap: https://thoopring.github.io/sitemap.xml
+Sitemap: https://thoopring.github.io/cookiemop/sitemap.xml
